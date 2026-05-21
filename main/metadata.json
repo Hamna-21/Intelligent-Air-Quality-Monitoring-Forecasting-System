@@ -1,0 +1,7 @@
+{
+  "name": "Air Quality Index System",
+  "description": "An intelligent air quality monitoring and recommendation system that provides personalized health advice, safe location suggestions, and real-time data visualization to help users navigate their environment safely.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
